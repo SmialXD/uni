@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"7b315eecfb6eddda","type":"file","file":"TechnischeMechanik/Semester3/Einheitsvektoren.md","x":1840,"y":-300,"width":680,"height":900},
+		{"id":"edde06976ddc5ed1","type":"file","file":"TechnischeMechanik/Semester3/Coriolisbeschleunigung.md","x":-1110,"y":132,"width":400,"height":68},
+		{"id":"c82cbcac6685497d","type":"file","file":"TechnischeMechanik/Semester3/Zentripetalbeschleunigung.md","x":-1110,"y":560,"width":400,"height":280},
+		{"id":"54452ae4e8a53a84","x":-80,"y":1040,"width":654,"height":840,"color":"#000000","type":"file","file":"TechnischeMechanik/Semester3/Natürliche Bahnkoordinaten.md"},
+		{"id":"38705c6508afaa69","type":"file","file":"TechnischeMechanik/Semester3/Zylinder Koordinaten.md","x":-100,"y":120,"width":694,"height":620,"color":"#000000"},
+		{"id":"a8207d6eb1ee9aab","type":"file","file":"TechnischeMechanik/Semester3/Kartesische Koordinaten.md","x":-86,"y":-560,"width":660,"height":400},
+		{"id":"56d8f7aa7eff8083","type":"file","file":"TechnischeMechanik/Semester3/KartesischeKoordinaten.excalidraw.md","x":-486,"y":-560,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"2111c211cde537b0","fromNode":"38705c6508afaa69","fromSide":"left","toNode":"c82cbcac6685497d","toSide":"right"},
+		{"id":"c96512a36a857e13","fromNode":"38705c6508afaa69","fromSide":"left","toNode":"edde06976ddc5ed1","toSide":"right"},
+		{"id":"b31c80204440f373","fromNode":"a8207d6eb1ee9aab","fromSide":"bottom","toNode":"38705c6508afaa69","toSide":"top","color":"1"},
+		{"id":"f21e5f88d355da2e","fromNode":"7b315eecfb6eddda","fromSide":"left","toNode":"38705c6508afaa69","toSide":"right"},
+		{"id":"b6480978ba71c711","fromNode":"7b315eecfb6eddda","fromSide":"left","toNode":"a8207d6eb1ee9aab","toSide":"right"},
+		{"id":"e8fb4c4fb4e0bc68","fromNode":"38705c6508afaa69","fromSide":"bottom","toNode":"54452ae4e8a53a84","toSide":"top","color":"1"},
+		{"id":"56dba2e8ed772ee0","fromNode":"7b315eecfb6eddda","fromSide":"left","toNode":"54452ae4e8a53a84","toSide":"right"}
+	]
+}

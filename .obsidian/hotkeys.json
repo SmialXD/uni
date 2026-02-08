@@ -1,0 +1,26 @@
+{
+  "app:reload": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:insert-mathblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:toggle-inline-math": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ]
+}

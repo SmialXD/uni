@@ -1,0 +1,10 @@
+{
+  "enabledCssSnippets": [
+    "math",
+    "fonts"
+  ],
+  "cssTheme": "",
+  "interfaceFontFamily": "JetBrainsPropo",
+  "textFontFamily": "JetBrainsPropo",
+  "monospaceFontFamily": "JetBrainsPropo"
+}
